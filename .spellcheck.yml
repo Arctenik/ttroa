@@ -1,0 +1,4 @@
+matrix:
+- name: all
+  sources:
+  - **/*
