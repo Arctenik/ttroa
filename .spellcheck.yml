@@ -1,4 +1,4 @@
 matrix:
 - name: all
   sources:
-  - **/*
+  - "**/*"
