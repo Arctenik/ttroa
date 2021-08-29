@@ -1,4 +1,6 @@
 matrix:
 - name: Markdown
+  pipeline:
+  - pyspelling.filters.markdown:
   sources:
   - "**/*.md"
