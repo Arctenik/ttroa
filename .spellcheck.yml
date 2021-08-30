@@ -2,5 +2,7 @@ matrix:
 - name: Markdown
   pipeline:
   - pyspelling.filters.markdown:
+  - pyspelling.filters.html:
+    comments: false
   sources:
   - "**/*.md"
