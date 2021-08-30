@@ -3,6 +3,6 @@ matrix:
   pipeline:
   - pyspelling.filters.markdown:
   - pyspelling.filters.html:
-    comments: false
+      comments: false
   sources:
   - "**/*.md"
