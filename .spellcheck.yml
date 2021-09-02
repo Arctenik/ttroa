@@ -1,5 +1,9 @@
 matrix:
 - name: Markdown
+  dictionary:
+    wordlists:
+    - .wordlist.txt
+    encoding: utf-8
   pipeline:
   - pyspelling.filters.markdown:
   - pyspelling.filters.html:
