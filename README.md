@@ -1,3 +1,3 @@
-# ttroa
+# the thing
  
-the test repository of awesomeness. bluhulh
+the test repository of awesomeness. yeah
