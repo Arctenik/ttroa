@@ -1,4 +1,4 @@
 from thing import *
 
-def test(x):
-	return (x + 1) * 2
+# def test(x):
+# 	return (x + 1) * 2
